@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Pip env
+pip-selfcheck.json
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+coverage/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+.env.*
